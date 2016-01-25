@@ -38,7 +38,7 @@
 </big></p>
 
 
-![React busy](example/construction.gif)
+![React busy](src/example/construction.png)
 
 
 ## Installation
