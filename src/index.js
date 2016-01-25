@@ -1,3 +1,3 @@
-import ReactComponent from './ReactComponent';
-export default ReactComponent;
+import ReactBusy from './ReactBusy';
+export default ReactBusy;
 

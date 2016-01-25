@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import ReactComponent from '..';
+import ReactBusy from '..';
 
 class App extends Component {
 
@@ -8,7 +8,7 @@ class App extends Component {
 
     return (
       <div>
-        <ReactComponent />
+        <ReactBusy />
       </div>
     );
   }
