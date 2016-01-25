@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
-<big><h1 align="center">React text collapse</h1></big>
+<big><h1 align="center">React Busy</h1></big>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/react-busy">
@@ -40,6 +40,7 @@
 
 ![React busy](src/example/construction.png)
 
+This module is currently under construction...
 
 ## Installation
 
